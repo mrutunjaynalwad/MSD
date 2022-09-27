@@ -1,0 +1,11 @@
+     1	11:38	vim pwd.csh
+     6	23:49	cd MSD > file.txt
+     8	23:50	vim file.txt
+    10	23:50	cd MSD > file1.txt
+    12	23:51	cd ..
+    15	23:52	vim file1.txt
+    16	23:52	cd MSD
+    17	23:52	ls
+    18	23:52	vim kdkd.txt
+    19	23:53	history
+    20	23:53	history > file2.txt
